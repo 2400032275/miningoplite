@@ -1,0 +1,72 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+.m2/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+bin/
+.metadata/
+
+# Logs
+*.log
+logs/
+
+# Class files
+*.class
+.classpath
+
+# Spring Boot
+application*.properties
+application*.yml
+
+# Database
+*.db
+*.sqlite
+mysql/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing
+target/
+.jacoco.exec
+
+# Compiled Python
+*.pyc
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Misc
+*.bak
+*.tmp
+*.orig
+.env
+.env.local
+local.properties
